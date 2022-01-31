@@ -1,1 +1,1 @@
-# crypto_for_school
+файлы формата тхт просто хранят информацию, al_sweigart_pubkey и al_sweigart_privkey хранят ключи, которые нужно сгенерировать через запуск файла makePublicPrivateKeys. PrimeNum и Cryptomath - это дополнительные модули, которые импортирует файл publicKeyCipher для коректной работы(их трогать не нужно). В файле publicKeyCipher есть 2 переменные : text и mode меняя их, можно расшифровывать и защифровывать сообщения. 
